@@ -8,6 +8,6 @@ dynamic.push(50);
 ///=Object
 let d;
 d = {
-    name: "Ripon",
+    name: "Bangladesh",
     age: 50
 };
